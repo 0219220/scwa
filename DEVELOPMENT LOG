@@ -1,0 +1,18 @@
+Development Log
+
+Project II: Blog 
+
+Jorge Antonio Maldonado Núñez, Luis Fernando Villaseñor García, Isabella Rosa Bismanns
+
+Thursday, October 21st: 
+Luis started to set up the front end, this included choosing the theme(which was decided by everyone), color scheme, font sizes, and designing the general layout of the front end. 
+
+Monday, October 25th: 
+Jorge and Luis added the backend in the index file, this is where they designed the function. 
+
+Tuesday, October 26th:
+Luis, Jorge and Isabella implemented the node.js backend server.
+On top of that, Isabella tried to upload the code on Heroku and fixed some front end errors. 
+During the implementation of the express server we all went through problems, like for example for some reason only the html of the project was appearing in the live webpage. 
+To end up, we adjusted missing things and resolved the last errors.
+
